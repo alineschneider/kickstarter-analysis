@@ -20,7 +20,7 @@ About 97% of campaigns for the "Plays" subcategory have goals under $15,000. For
 Past that point, the proportion of failed campaigns starts to increase while success rate drops.\
 For goals between $19,999 and $50,000, there are not enough data points to draw any conclusions. When goals are higher than $50,000, however, campaigns are much more likely to fail, with a failure rate of abour 80%.
 ![Outcomes based Launch Date](Outcomes_based_on_launch_date.PNG)
-Most campaigns in the Theater category are successful.
+Most campaigns in the Theater category are successful and there doesn't seem to be a correlation between the campaign running longer and a successful outcome. The average length of a successful campaign is lower than a failed one.
 The highest number of campaigns are launched in the month of May and, judging by the distance between the "Successful" and "Failed" lines in the graph, there is also a higher chance of success for campaigns that are launched on that month.\
 During the other months of the year, both lines seem to follow similar trends, meaning the ups and downs are just proportional to the higher or lower volume of campaigns launched, witout indicating a higher or lower chance of success.\
 <br>
