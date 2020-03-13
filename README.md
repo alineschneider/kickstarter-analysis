@@ -27,4 +27,4 @@ During the other months of the year, both lines seem to follow similar trends, m
 **Conclusion:** It seems that campaigns in the Theater category with goals of up to $5,000, that are launched in the month of May will have the greatest chance of success.\
 <br>
 Other interesting graphs and tables would be Outcomes by length of time that the campaign ran for; Outcomes filtered for Staff Picks; Correlation between the Average Donation and the Percentage Funded.\
-A limitation/issue with the dataset is that the goals and pledged amounts seem to be represented in different currencies.
+A possible limitation/issue with the dataset is that the goals and pledged amounts seem to be represented in different currencies.
