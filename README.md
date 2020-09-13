@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends.
+Performing analysis on Kickstarter data to uncover trends that could define whether a crowdfundimg campaign is likely to achieve success or not, based on the category, campaighn launch date, set goal, etc.
 
 ## Outcomes by Category
 Most campaigns are in the Theater category, followed by Music, Film & Video and Technology.
@@ -26,7 +26,7 @@ Most campaigns in the Theater category are successful and there doesn't seem to 
 The highest number of campaigns are launched in the month of May and, judging by the distance between the "Successful" and "Failed" lines in the graph, there is also a higher chance of success for campaigns that are launched on that month.\
 <br>
 During the other months of the year, both lines seem to follow similar trends, meaning the ups and downs are just proportional to the higher or lower volume of campaigns launched, without indicating a higher or lower chance of success.\
-<br>
+
 ### Conclusion
 It seems that campaigns in the Theater category with goals of up to $5,000, that are launched in the month of May will have the greatest chance of success.\
 <br>
