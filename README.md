@@ -13,14 +13,14 @@ About 61% of the campaigns for funding Plays in the US are successful.
 May and June seem to be good months to launch a campaign in the Theater category, since there is a spike in successful campaigns in those months.
 ![Outcomes based on Launch Date](Outcomes_based_on_Launch_Date.png)
 
-## Analysis on Kickstarter data for Theater Campaigns
+## Analysis on Theater Campaigns
 ![Outcomes based on Goals](Outcomes_based_on_goals.PNG)
 About 96% of campaigns for the "Plays" subcategory have goals under $25,000. For goals set under $5,000, there is a much greater chance of success, while between $15,000 and $19,999, there seems to be an equal chance of success and failure.\
 For goals higher than $20,000, the success rate starts to drop considerably.\
 <br>
 For goals between $25,000 and $50,000, there are not enough data points to draw confident conclusions. When goals are higher than $50,000, however, campaigns are much more likely to fail, with a failure rate of abour 88%.\
-<br>
-![Outcomes based Launch Date](Outcomes_based_on_launch_date.PNG)
+
+![Outcomes Based on Launch Date for Theater Category](theater_outcomes_based_on_launch_date.PNG)
 Most campaigns in the Theater category are successful and there doesn't seem to be a correlation between the campaign running longer and a successful outcome. The average length of a successful campaign is lower than a failed one.\
 <br>
 The highest number of campaigns are launched in the month of May and, judging by the distance between the "Successful" and "Failed" lines in the graph, there is also a higher chance of success for campaigns that are launched on that month.\
